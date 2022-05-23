@@ -13,7 +13,11 @@ function ProjectUnit(props) {
       }}
     >
       <div class="card-image wave-effect waves-block waves-light">
-        <img src={props.image} class="activator" alt=""></img>
+        <img
+          src={require(`../img/${props.image}`)}
+          class="activator"
+          alt=""
+        ></img>
       </div>
       <div class="card-content">
         <span class="card-title">{props.title}</span>
