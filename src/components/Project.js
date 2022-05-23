@@ -31,6 +31,9 @@ function Project() {
         <div class="item">
           <ProjectUnit title="No Project here: Loads Google" image={image3} />
         </div>
+        <div class="item">
+          <ProjectUnit title="No Project here: Loads Google" image={image3} />
+        </div>
       </div>
     </div>
   );
