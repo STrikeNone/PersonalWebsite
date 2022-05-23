@@ -1,0 +1,48 @@
+.square {
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    width: 15%;
+    padding: 0 0.05rem;
+    display: block;
+    block-size: 150px;
+}
+
+.square:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.imgbg {
+    background-color: rgb(197, 231, 231);
+}
+
+.img {
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.textlayer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(59, 58, 58);
+}
+
+.icon {
+    position: relative;
+    bottom: 0%;
+    left: 45%;
+}
+
+.icon:hover {
+    cursor: pointer;
+}

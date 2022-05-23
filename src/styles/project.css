@@ -1,0 +1,83 @@
+.card {
+    position: relative;
+    margin: 0.5rem 0 1rem 0;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.card:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.card-image{
+    position: relative;
+}
+
+.waves-block {
+    display: block;
+}
+
+.waves-effect {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+
+}
+
+.activator {
+    height: 180px;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    
+}
+
+.card-content {
+    padding: 24px;
+    border-radius: 0 0 2px 2px;
+    overflow: hidden;
+}
+
+.card-title{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    height: 70px;
+    display: block;
+    line-height: 24px;
+    margin-bottom: 8px;
+    color: #2a2828;
+}
+
+.container{
+  display: grid;  
+  grid-template-columns: auto auto auto;
+  column-gap: 5px;
+  row-gap: 15px;
+  justify-items: center;
+  justify-content: space-evenly;
+  align-content: space-evenly;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 25px;
+  overflow-x: hidden;
+}
+
+.item{
+    justify-self: center;
+    width: 320px;
+}
