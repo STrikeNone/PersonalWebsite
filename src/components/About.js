@@ -38,6 +38,22 @@ function About() {
             </li>
           </div>
           <div className="category">
+            <h5 className="education-header">Experience</h5>
+            <li className="education-text">
+              Computer Vision/Data Science Intern - DSO National Laboratories
+              (May 21 - Jul 21)
+            </li>
+            <li className="education-text">
+              {" "}
+              Data Science Intern - Centre For Strategic Infocomm Technology
+              (May 22 - Jul 22)
+            </li>
+            <li className="education-text">
+              Data Science Intern (Upcoming) - ByteDance, TikTok (Aug 22 - Jan
+              23)
+            </li>
+          </div>
+          <div className="category">
             <h5 className="skills">Skills</h5>
             <p className="skills-text">
               Python, C/C++, Java, MER(N)N stack, SQL(MySQL/PostgreSQL/MSSQL),

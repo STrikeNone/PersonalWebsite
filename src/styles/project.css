@@ -81,3 +81,11 @@
     justify-self: center;
     width: 320px;
 }
+
+.overall {
+    overflow-x: hidden;
+}
+
+html {
+    overflow-y: overlay;
+}

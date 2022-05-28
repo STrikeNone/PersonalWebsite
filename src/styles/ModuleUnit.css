@@ -3,7 +3,7 @@
     box-sizing: border-box;
     width: 15%;
     padding: 0 0.05rem;
-    display: block;
+    display: grid;
     block-size: 150px;
 }
 
@@ -13,6 +13,7 @@
 
 .imgbg {
     background-color: rgb(197, 231, 231);
+    height: 35px;
 }
 
 .img {
@@ -39,8 +40,10 @@
 
 .icon {
     position: relative;
-    bottom: 0%;
-    left: 45%;
+    bottom: 5px;
+    right: 0;
+    left: 5%;
+    top: -10%;
 }
 
 .icon:hover {

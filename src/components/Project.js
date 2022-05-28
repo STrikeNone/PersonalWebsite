@@ -5,7 +5,7 @@ import { projects } from "../json/projects";
 
 function Project() {
   return (
-    <div>
+    <div class="overall">
       <style>{"body {background-color: #f0f0f5;}"}</style>
       <Navbar />
       <div class="container">

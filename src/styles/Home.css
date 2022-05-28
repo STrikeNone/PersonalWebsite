@@ -1,0 +1,61 @@
+.overall {
+    overflow-x: hidden;
+}
+
+.introduction-text {
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    align-items: center;
+
+}
+
+.large-text {
+    font-weight: 550;
+    font-size: 32px;
+    color: #2e146c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.small-text {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    letter-spacing: 0.1mm;
+    color: #2e146c;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.grid-object {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5rem 0 5rem;
+}
+
+.grid-object-text {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.grid-layer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+
+.grid-layer2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    margin-top: 4rem
+}
