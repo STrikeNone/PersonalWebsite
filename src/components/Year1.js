@@ -12,7 +12,7 @@ import ger from "../img/ger.png";
 function Year1() {
   const [state, setState] = useState("false");
   return (
-    <div>
+    <div class="overall">
       <style>{"body {background-color: #f0f0f5;}"}</style>
       <Navbar />
       {state !== "false" && (

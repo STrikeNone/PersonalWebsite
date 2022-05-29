@@ -1,3 +1,7 @@
+.overall {
+    overflow-x: hidden;
+}
+
 .grid {
     margin-top: 5%;
 }
