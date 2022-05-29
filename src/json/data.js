@@ -186,7 +186,7 @@ export const data = [
     website:
       "https://www.ntu.edu.sg/docs/librariesprovider76/course-outlines/ug---cos-ssm-courses/web-hw0228---sci-comm---051021.pdf?sfvrsn=59dff526_2",
     information: "Difficulty: 5/10 \n Grade: ",
-    review: "",
+    review: "TA Yuchen FTW!",
   },
   {
     title: "LL5001: Singapore Sign Language Level 1",
