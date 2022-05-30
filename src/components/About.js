@@ -27,7 +27,7 @@ function About() {
           <div className="category">
             <h5 className="education-header">Education</h5>
             <li className="education-text">
-              2021 - Ongoing: Nanyang Technological University -- CGPA: 4.95
+              2021 - Ongoing: Nanyang Technological University -- CGPA: 4.94
             </li>
             <li className="education-text">
               {" "}

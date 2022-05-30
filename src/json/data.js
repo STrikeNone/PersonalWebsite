@@ -152,7 +152,7 @@ export const data = [
     title: "MH3500: Statistics",
     website:
       "https://curr.ntu.edu.sg/obtl/spms-mas/obtl-output/MH3500/?sfvrsn=16988339_2",
-    information: "Difficulty: 7/10 \n Grade: \n Mid Terms: 30/35",
+    information: "Difficulty: 7/10 \n Grade: A+\n Mid Terms: 30/35",
     review:
       "This module is a slightly more advanced statistics module from MH2500. The content can be broken down into 3 chapters. Chaptrer 1 being mostly about MH2500 concepts with more in-depth knowledge into MGFs and Chi-Square/Gamma/t-distributions. Chapter 2 would be the hardest with most of the content revolving around Estimators (MLE, MME, Pivotal Quantitys, Asymptotic). Chapter 3 is just Hypothesis testing. I would highly recommend doing this module concurrently with MH3511 as it saves you alot of studying time since there are multiple overlapping topics. There is alo a weekly graded quiz but it is generally doable and only 4/8 is required per quiz to obtain the full score.",
   },
@@ -161,7 +161,7 @@ export const data = [
     website:
       "https://curr.ntu.edu.sg/obtl/spms-mas/obtl-output/MH3511?sfvrsn=ad1703e7_2",
     information:
-      "Difficulty: 6/10 \n Grade: \n Mid Term 1: 20/20 \n Mid Term 2: 20/20",
+      "Difficulty: 6/10 \n Grade: A+\n Mid Term 1: 20/20 \n Mid Term 2: 20/20",
     review:
       "R programming module which covers statistical tests such as Hypothesis Testing, t-test, chi-squared test, ANOVA, Wilcoxon Rank sum test, Paired and unpaired/Dependent and independent samples.This module is overall quite easy with mid terms being open book as well. There is also a group project although the results were not released. Overall, my opinion on doing well for this module would be to understand the concepts instead of memorizing things. Finals was also quite standard and similar to previous years.",
   },
@@ -169,8 +169,9 @@ export const data = [
     title: "CZ2006: Software Engineering",
     website:
       "https://www.ntu.edu.sg/pace/programmes/detail/cz2006-software-engineering",
-    information: "Difficulty: 9/10 \n Grade: ",
-    review: "",
+    information: "Difficulty: 9/10 \n Grade: A-",
+    review:
+      "Software Engineering module that can be broken down into Finals (50%) and a full-stack project (50%). The content taught are mostly about the software development lifecycle as well as various pattern on System Architecture to Object design. Overall this module is really content heavy but the finals is open book, i'd advise making your own notes for it though. For the project, my group chose to do a Queue Time app called QQueue in MERNN stack. I was in charge of the backend development in express.js and it was a really interesting experience. Our presentation didnt go well as the app crashed during the presentation and AWS failed us HAHA. Nonetheless, my advice would be focus on the documentation and dont start coding too early. It may seem easy to learn the code on your own but in reality many errors will appear along the way!",
   },
   {
     title: "CZ2007: Introduction to Databases",
@@ -185,8 +186,9 @@ export const data = [
     title: "HW0228: Scientifc Communication II",
     website:
       "https://www.ntu.edu.sg/docs/librariesprovider76/course-outlines/ug---cos-ssm-courses/web-hw0228---sci-comm---051021.pdf?sfvrsn=59dff526_2",
-    information: "Difficulty: 5/10 \n Grade: ",
-    review: "TA Yuchen FTW!",
+    information: "Difficulty: 5/10 \n Grade: A",
+    review:
+      "TA Yuchen FTW! Had to write a critique and scientifc report. The critique was on a chemical recycling project, and I kind of got help from my friends to peer mark my essay so I knew what to change. For the scientific report which we subsequently had our presentation on (OP), we decided to do our topic on whether the desire to have pets reduces the need to have children. It was a super interesting topic HAHA although our results werent as we had hoped for originally. Overall this module is quite chill especially with Yuchen being the nicest and most lepz TA ever!",
   },
   {
     title: "LL5001: Singapore Sign Language Level 1",

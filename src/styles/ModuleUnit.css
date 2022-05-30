@@ -32,18 +32,16 @@
 }
 
 .text {
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     font-weight: bold;
     color: rgb(59, 58, 58);
 }
 
 .icon {
-    position: relative;
-    bottom: 5px;
-    right: 0;
-    left: 5%;
-    top: -10%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
 .icon:hover {
