@@ -21,7 +21,7 @@ function Home() {
           of my personal project to develop my Software Engineering skills
           further. In this web page you'll be able to view some of my projects
           and personal thoughts on certain modules I have taken throughout
-          university so far :P
+          university so far :D
         </Typography>
       </div>
       <div class="grid-layer">
